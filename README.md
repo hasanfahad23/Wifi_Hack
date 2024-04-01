@@ -1,4 +1,4 @@
-## Wifi_Hack
+
 ### Hack WIfi Using Termux! (Requires Root)
 
 <p align="center"><img src="https://i.ibb.co/K74g0SC/hulu.jpg"></p>
